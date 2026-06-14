@@ -5,9 +5,6 @@
 
 <br/>
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2e22,100:0d1117&height=180&section=header&text=&fontSize=1&fontColor=4a9e6b&animation=fadeIn" />
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=4a9e6b&center=true&vCenter=true&width=1000&height=60&lines=B.E.+Electronics+%26+Instrumentation+%40+VGEC;Content+Creator+%7C+Video+Editor+%7C+Photographer;Freelance+Creative+%7C+CapCut+%7C+Canva;Engineer+by+degree%2C+Creator+by+passion" />
 

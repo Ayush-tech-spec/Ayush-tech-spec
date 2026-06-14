@@ -1,0 +1,21 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" fill="#0d1117" rx="12"/>
+
+  <!-- Subtle divider lines -->
+  <line x1="60" y1="30" x2="60" y2="90" stroke="#4a9e6b" stroke-width="3" stroke-linecap="round"/>
+  <line x1="740" y1="30" x2="740" y2="90" stroke="#4a9e6b" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Name -->
+  <text x="400" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="36" font-weight="700" fill="#e6edf3"
+        text-anchor="middle" letter-spacing="3">
+    AYUSH BHARADWAJ
+  </text>
+
+  <!-- Tagline -->
+  <text x="400" y="86" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="13" fill="#4a9e6b"
+        text-anchor="middle" letter-spacing="2">
+    Engineer · Creator · Freelancer
+  </text>
+</svg>

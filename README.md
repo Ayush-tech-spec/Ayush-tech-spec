@@ -58,14 +58,6 @@ class AyushBharadwaj:
             "videography"  : ["Reels", "Short-form", "Brand Videos"],
         }
 
-        self.engineering = {
-            "hardware"     : ["Analog & Digital Circuits", "PCB Design", "Op-Amps", "CRO & Function Generators"],
-            "embedded"     : ["Microcontrollers (AVR, PIC, ARM)", "C", "C++", "MATLAB", "LabVIEW"],
-            "sensors"      : ["Transducer Interfacing", "Signal Conditioning", "Calibration"],
-            "automation"   : ["PLC Programming", "SCADA", "DCS", "Industry 4.0 / IoT"],
-            "learning_now" : ["Python", "AI basics"],
-        }
-
         self.links = {
             "instagram" : "ayush_bharadwaj_films",
             "linkedin"  : "ayushbharadwaj31",
@@ -88,32 +80,6 @@ class AyushBharadwaj:
   <img src="https://img.shields.io/badge/Event%20Coverage-4a9e6b?style=flat-square&labelColor=161b22" />
   <img src="https://img.shields.io/badge/Cinematic%20Reels-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/Brand%20Videos-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=161b22" />
-</p>
-
-### ⚡ Hardware and Circuits (VGEC Labs)
-<p align="left">
-  <img src="https://img.shields.io/badge/Analog%20%26%20Digital%20Circuits-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/PCB%20Design-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Op--Amps%20%26%20Timers-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/CRO%20%26%20Logic%20Analyzers-4a9e6b?style=flat-square&labelColor=161b22" />
-</p>
-
-### 🔌 Embedded Systems and Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=ni&logoColor=black&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/AVR%20%7C%20PIC%20%7C%20ARM-4a9e6b?style=flat-square&labelColor=161b22" />
-</p>
-
-### 🏭 Sensors, Automation and Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Transducer%20Interfacing-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Signal%20Conditioning-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/PLC%20%26%20SCADA-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/DCS-4a9e6b?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/IoT%20%2F%20Industry%204.0-4a9e6b?style=flat-square&labelColor=161b22" />
 </p>
 
 ### 🤖 Currently Learning
@@ -148,18 +114,18 @@ class AyushBharadwaj:
 │           B.E. ELECTRONICS & INSTRUMENTATION @ VGEC             │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────────────┐ │
-│  │   Sensors   │───▶│  Embedded   │───▶│  Automation &       │ │
-│  │ Transducers │    │  & Code     │    │  Process Control    │ │
-│  └─────────────┘    └─────────────┘    └─────────────────────┘ │
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────────────┐  │
+│  │   Sensors   │───▶│  Embedded   │───▶│  Automation &      │  │
+│  │ Transducers │    │  & Code     │    │  Process Control    │  │
+│  └─────────────┘    └─────────────┘    └─────────────────────┘  │
 │                                                                 │
 │  Labs I work in:                                                │
-│  • Electronics & Circuit Design Lab  (PCB, Op-Amps, CRO)       │
+│  • Electronics & Circuit Design Lab  (PCB, Op-Amps, CRO)        │
 │  • Measurement & Transducer Lab      (Sensors, Calibration)     │
 │  • Embedded Systems Lab              (MCUs, C/C++, MATLAB)      │
-│  • Automation & Motion Control Lab   (PLC, SCADA, DCS)         │
+│  • Automation & Motion Control Lab   (PLC, SCADA, DCS)          │
 │                                                                 │
-│  Also picking up:  Python  |  AI basics                        │
+│  Also picking up:  Prompt Engineering basics  |  Gen AI         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

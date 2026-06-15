@@ -84,8 +84,7 @@ class AyushBharadwaj:
 
 ### 🤖 Currently Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML%20Basics-4a9e6b?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/GenAI%20%26%20Prompt%20Engineering-4a9e6b?style=flat-square&labelColor=161b22" />
 </p>
 
 ---
@@ -120,12 +119,13 @@ class AyushBharadwaj:
 │  └─────────────┘    └─────────────┘    └─────────────────────┘  │
 │                                                                 │
 │  Labs I work in:                                                │
-│  • Electronics & Circuit Design Lab  (PCB, Op-Amps, CRO)        │
-│  • Measurement & Transducer Lab      (Sensors, Calibration)     │
-│  • Embedded Systems Lab              (MCUs, C/C++, MATLAB)      │
-│  • Automation & Motion Control Lab   (PLC, SCADA, DCS)          │
+│  • Automation & Motion Control Lab   (PLC Ladder Diagram, ANFD) │
 │                                                                 │
-│  Also picking up:  Prompt Engineering basics  |  Gen AI         │
+│  Industry:                                                      │
+│  • Internship  →  Production Dept, Subros Ltd                   │
+│                                                                 │
+│  Also picking up:  GenAI  |  Prompt Engineering                 │          
+│                                                                 │         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -162,9 +162,9 @@ class AyushBharadwaj:
 status:
   college     : "3rd Year B.E. E&I at VGEC (GTU)"
   creative    : "Taking on freelance edits and photography gigs"
-  learning    : ["Python", "AI basics", "Cinematic editing techniques"]
-  open_to     : ["Video editing", "Photography collabs", "Brand content"]
-  fun_fact    : "I study PLC logic by day and cut reels by night 🎛️🎬"
+  learning    : "GenAI", "Prompt Engineering"
+  open_to     : "Video editing", "Photography collabs", "Brand content", "Automation/PLC projects"
+  fun_fact    : "I work on ANFDs and PLC logic by day, and cut reels by night 🎛️🎬"
 ```
 
 ---
